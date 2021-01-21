@@ -6,6 +6,9 @@
 
 ## Announcements 🔊:
 Pictures of the execution will be added soon 
+<br /> Feel free to contact me by [g-mail] for any additions. Also, please do contribute 😁.
+
+[g-mail]: mailto:voyager2005.github@gmail.com
 
 ## License and coyright:
 This Repository is licensed under [MIT License](LICENSE)
