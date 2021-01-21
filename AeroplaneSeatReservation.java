@@ -1,4 +1,3 @@
-package individual; 
 import java.util.Scanner; 
 public class AeroplaneSeatReservation
 {
