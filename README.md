@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/github/license/voyager2005/aeroplane-seat-reservation?color=brightgreen&style=plastic)
 
 ## Announcements 🔊:
-nothing to announce as of now...
+Pictures of the execution will be added soon 
 
 ## License and coyright:
 This Repository is licensed under [MIT License](LICENSE)
