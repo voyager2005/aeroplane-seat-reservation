@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AeroplaneSeatReservation
+comment1.params=sc
+comment1.target=void\ accept(java.util.Scanner)
+comment2.params=
+comment2.target=void\ displayAirplaneSeats()
+comment3.params=
+comment3.target=void\ Choose()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
